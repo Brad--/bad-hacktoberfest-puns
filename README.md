@@ -1,7 +1,7 @@
-#Bad Hacktoberfest Puns
+# Bad Hacktoberfest Puns
 Have any bad puns? Need a repo to enable you to get a sweet t-shirt without putting in any real effort? Well then *Bad Hacktoberfest Puns* is the repository for you!
 
-#Pull Request Name Guidelines
+# Pull Request Name Guidelines
 Ensure that you follow this formula when titling a Pull Request:
 ```
 category(changeDescription): more detailed change description
